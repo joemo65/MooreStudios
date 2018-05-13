@@ -1,0 +1,24 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: #ff5252;
+    font-size: 10pt;
+}
+
+.contact{
+    text-align: center;
+    margin-top: 150px;
+}
